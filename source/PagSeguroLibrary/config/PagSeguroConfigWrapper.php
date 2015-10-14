@@ -72,7 +72,7 @@ class PagSeguroConfigWrapper
     /**
      * @return array
      */
-    public static function getConfig()
+    public function getConfig()
     {
         $PagSeguroConfig = array();
 
